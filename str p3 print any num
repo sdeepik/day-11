@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    char str[35];
+    scanf("%s",str);
+    printf("%c",str[5]);
+    return 0;
+}
